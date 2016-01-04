@@ -5,5 +5,4 @@
 /PathFindTest/Debug
 *.suo
 *.opensdf
-/PathFindTest/*.dll
 *.dll
