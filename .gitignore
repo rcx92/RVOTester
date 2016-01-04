@@ -1,0 +1,7 @@
+/Debug
+/Release
+*.sdf
+/PathFindTest/Release
+/PathFindTest/Debug
+*.suo
+*.opensdf
